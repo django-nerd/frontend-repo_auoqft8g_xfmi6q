@@ -20,7 +20,7 @@ export default function Hero() {
   return (
     <section id="home" ref={ref} className="relative min-h-[100vh] pt-24 overflow-hidden">
       <motion.div className="absolute inset-0" style={{ y: bgY }}>
-        <Spline scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/FduaNp3csZktbOi3/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </motion.div>
 
       <motion.div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6" style={{ y: contentY }}>
